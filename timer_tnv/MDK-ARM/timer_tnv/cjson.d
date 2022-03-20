@@ -1,0 +1,10 @@
+timer_tnv\cjson.o: ..\cJSON\cJSON.c
+timer_tnv\cjson.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
+timer_tnv\cjson.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdio.h
+timer_tnv\cjson.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\math.h
+timer_tnv\cjson.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdlib.h
+timer_tnv\cjson.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\limits.h
+timer_tnv\cjson.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\ctype.h
+timer_tnv\cjson.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\float.h
+timer_tnv\cjson.o: ..\cJSON\cJSON.h
+timer_tnv\cjson.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stddef.h
